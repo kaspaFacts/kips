@@ -14,5 +14,5 @@ Kaspa Improvement Proposals (KIPs) describe standard proposals for the Kaspa net
 | [10](kip-0010.md) | Consensus, Script Engine | New Transaction Opcodes for Enhanced Script Functionality | Maxim Biryukov, Ori Newman | Active |
 | [13](kip-0013.md) | Consensus | Transient Storage Handling | Michael Sutton, coderofstuff | Active |
 | [14](kip-0014.md) | Consensus | The Crescendo Hardfork | Michael Sutton | Active |
-| [15](kip-0015.md) | Consensus | Canonical Transaction Ordering and Sequencing Commitments | Mike Zak, Ro Ma | Active |
+| [15](kip-0015.md) | Consensus | Canonical Transaction Ordering and Sequencing Commitments | Mike Zak, Ro Ma | Active | 
 | [19](kip-0019.md) | Applications | Proof of Inclusion | kaspaFacts | Draft |
