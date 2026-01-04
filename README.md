@@ -3,7 +3,7 @@
 Kaspa Improvement Proposals (KIPs) describe standard proposals for the Kaspa network, including core protocol specifications, network upgrades and client APIs.
 
 | Number | Layer | Title | Owner | Status |
-|--------|-------|-------|-------|--------|
+|--------|-------|-------|--------|--------|
 | [1](kip-0001.md) | Consensus, Node | Rewriting the Kaspa Full-Node in the Rust Programming Language | Michael Sutton, Ori Newman | Implemented |
 | [2](kip-0002.md) | Consensus, API/RPC | Upgrade consensus to follow the DAGKNIGHT protocol | Yonatan Sompolinsky, Michael Sutton | Proposed |
 | [3](kip-0003.md) | Consensus | Block sampling for efficient DAA with high BPS | Shai Wyborski, Michael Sutton | Rejected |
